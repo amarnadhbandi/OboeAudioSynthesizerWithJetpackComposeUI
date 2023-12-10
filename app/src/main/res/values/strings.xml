@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Audio Synthesizer</string>
+    <string name="audio_table">Oboe Audio Synthesizer</string>
+    <string name="frequency">Frequency</string>
+    <string name="frequency_value">%.1f Hz</string>
+    <string name="play">PLAY</string>
+    <string name="stop">STOP</string>
+    <string name="sine">SINE</string>
+    <string name="triangle">TRIANGLE</string>
+    <string name="square">SQUARE</string>
+    <string name="saw">SAW</string>
+</resources>
